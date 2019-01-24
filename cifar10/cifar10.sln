@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "cifar10", "cifar10.pyproj", "{16A0ED44-98A5-4DCB-B8DB-58ADB8D25AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A0ED44-98A5-4DCB-B8DB-58ADB8D25AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A0ED44-98A5-4DCB-B8DB-58ADB8D25AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {355F1C9A-D5F4-44D4-A634-F6A803BA0DCA}
+	EndGlobalSection
+EndGlobal
